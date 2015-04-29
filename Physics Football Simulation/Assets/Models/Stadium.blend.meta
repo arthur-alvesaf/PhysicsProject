@@ -15,6 +15,11 @@ ModelImporter:
     100014: Text
     100016: Ground
     100018: SoccerGoalPost
+    100020: Bleechers
+    100022: Lights01
+    100024: Lights02
+    100026: Lights03
+    100028: TeamBenches
     400000: Cylinder
     400002: Field
     400004: FieldPosts
@@ -25,6 +30,11 @@ ModelImporter:
     400014: Text
     400016: Ground
     400018: SoccerGoalPost
+    400020: Bleechers
+    400022: Lights01
+    400024: Lights02
+    400026: Lights03
+    400028: TeamBenches
     2300000: Cylinder
     2300002: Field
     2300004: FieldPosts
@@ -34,6 +44,11 @@ ModelImporter:
     2300012: Text
     2300014: Ground
     2300016: SoccerGoalPost
+    2300018: Bleechers
+    2300020: Lights01
+    2300022: Lights02
+    2300024: Lights03
+    2300026: TeamBenches
     3300000: Cylinder
     3300002: Field
     3300004: FieldPosts
@@ -43,6 +58,11 @@ ModelImporter:
     3300012: Text
     3300014: Ground
     3300016: SoccerGoalPost
+    3300018: Bleechers
+    3300020: Lights01
+    3300022: Lights02
+    3300024: Lights03
+    3300026: TeamBenches
     4300000: Cylinder
     4300002: Plane
     4300004: Scoreboard
@@ -52,6 +72,11 @@ ModelImporter:
     4300012: Text
     4300014: SoccerGoalPost
     4300016: Ground
+    4300018: Bleechers
+    4300020: Lights03
+    4300022: Lights02
+    4300024: Lights01
+    4300026: TeamBenches
     7400000: Default Take
     9500000: //RootNode
   materials:
