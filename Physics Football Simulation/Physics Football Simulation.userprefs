@@ -1,8 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerBehaviour.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ParentBehaviour.js">
     <Files>
-      <File FileName="Assets\PlayerBehaviour.cs" Line="17" Column="59" />
+      <File FileName="Assets\PlayerBehaviour.cs" Line="9" Column="3" />
+      <File FileName="Assets\RunnerBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Models\FootballBehaviour.js" Line="9" Column="4" />
+      <File FileName="Assets\ParentBehaviour.js" Line="6" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
