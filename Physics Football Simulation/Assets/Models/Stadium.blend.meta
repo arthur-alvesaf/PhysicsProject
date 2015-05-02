@@ -20,6 +20,23 @@ ModelImporter:
     100024: Lights02
     100026: Lights03
     100028: TeamBenches
+    100030: MediaCenter
+    100032: Tree_1
+    100034: Tree_1_001
+    100036: Tree_1_002
+    100038: Tree_2
+    100040: Tree_2_001
+    100042: Tree_2_002
+    100044: Tree_2_003
+    100046: Tree_2_004
+    100048: Tree_2_005
+    100050: Tree_2_006
+    100052: Tree_2_007
+    100054: Tree_2_008
+    100056: Tree_2_009
+    100058: Tree_2_010
+    100060: Tree_2_011
+    100062: Tree_2_012
     400000: Cylinder
     400002: Field
     400004: FieldPosts
@@ -35,6 +52,23 @@ ModelImporter:
     400024: Lights02
     400026: Lights03
     400028: TeamBenches
+    400030: MediaCenter
+    400032: Tree_1
+    400034: Tree_1_001
+    400036: Tree_1_002
+    400038: Tree_2
+    400040: Tree_2_001
+    400042: Tree_2_002
+    400044: Tree_2_003
+    400046: Tree_2_004
+    400048: Tree_2_005
+    400050: Tree_2_006
+    400052: Tree_2_007
+    400054: Tree_2_008
+    400056: Tree_2_009
+    400058: Tree_2_010
+    400060: Tree_2_011
+    400062: Tree_2_012
     2300000: Cylinder
     2300002: Field
     2300004: FieldPosts
@@ -49,6 +83,23 @@ ModelImporter:
     2300022: Lights02
     2300024: Lights03
     2300026: TeamBenches
+    2300028: MediaCenter
+    2300030: Tree_1
+    2300032: Tree_1_001
+    2300034: Tree_1_002
+    2300036: Tree_2
+    2300038: Tree_2_001
+    2300040: Tree_2_002
+    2300042: Tree_2_003
+    2300044: Tree_2_004
+    2300046: Tree_2_005
+    2300048: Tree_2_006
+    2300050: Tree_2_007
+    2300052: Tree_2_008
+    2300054: Tree_2_009
+    2300056: Tree_2_010
+    2300058: Tree_2_011
+    2300060: Tree_2_012
     3300000: Cylinder
     3300002: Field
     3300004: FieldPosts
@@ -63,6 +114,23 @@ ModelImporter:
     3300022: Lights02
     3300024: Lights03
     3300026: TeamBenches
+    3300028: MediaCenter
+    3300030: Tree_1
+    3300032: Tree_1_001
+    3300034: Tree_1_002
+    3300036: Tree_2
+    3300038: Tree_2_001
+    3300040: Tree_2_002
+    3300042: Tree_2_003
+    3300044: Tree_2_004
+    3300046: Tree_2_005
+    3300048: Tree_2_006
+    3300050: Tree_2_007
+    3300052: Tree_2_008
+    3300054: Tree_2_009
+    3300056: Tree_2_010
+    3300058: Tree_2_011
+    3300060: Tree_2_012
     4300000: Cylinder
     4300002: Plane
     4300004: Scoreboard
@@ -77,6 +145,23 @@ ModelImporter:
     4300022: Lights02
     4300024: Lights01
     4300026: TeamBenches
+    4300028: Tree_2_012
+    4300030: Tree_2_011
+    4300032: Tree_2_010
+    4300034: Tree_2_009
+    4300036: Tree_2_008
+    4300038: Tree_2_007
+    4300040: Tree_2_006
+    4300042: Tree_2_005
+    4300044: Tree_1_002
+    4300046: Tree_2_004
+    4300048: Tree_2_003
+    4300050: Tree_2_002
+    4300052: Tree_1_001
+    4300054: Tree_2_001
+    4300056: Tree_2
+    4300058: Tree_1
+    4300060: MediaCenter
     7400000: Default Take
     9500000: //RootNode
   materials:
