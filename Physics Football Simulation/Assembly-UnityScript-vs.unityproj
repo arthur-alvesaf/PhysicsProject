@@ -49,6 +49,7 @@
      <Compile Include="Assets\CameraBehaviour.js" />
      <Compile Include="Assets\FollowBall.js" />
      <Compile Include="Assets\FootballBehaviour.js" />
+     <Compile Include="Assets\OponentDefensorBehaviour.js" />
      <Compile Include="Assets\QuarterBackBehaviour.js" />
      <Compile Include="Assets\RunnerBehaviour.js" />
  <Reference Include="UnityEngine.UI">

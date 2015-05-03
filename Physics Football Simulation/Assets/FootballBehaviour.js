@@ -2,7 +2,6 @@
 
 var ParentBone : GameObject;
 var ParentBoneR : GameObject;
-var Runner : Rigidbody;
 var Ball: Rigidbody;
 
 function Start () 
@@ -23,7 +22,6 @@ function Throw()
 	transform.rotation.y = 2.3;
 	transform.rotation.z = 248;
 	transform.rotation.x = 45;
-
 	Ball.AddForce(transform.forward * 20000);
 	Ball.useGravity = true;
 }
