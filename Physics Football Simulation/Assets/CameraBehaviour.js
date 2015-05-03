@@ -1,15 +1,8 @@
 ﻿/*#pragma strict
 
-var Parent : GameObject;
-var Child : GameObject;
-var Ball : Rigidbody;
+var CameraMovement : GameObject;
+var MoveCamera : GameObject;
 
-function Start () {
-	transform.parent = Parent.transform;
-	transform.position = Parent.transform.position;
-	Child.transform.LookAt(Ball);
-}
-
-function Update () {
-
+function Start(){
+	CameraMovement.transform.parent = MoveCamera.transform;
 }*/

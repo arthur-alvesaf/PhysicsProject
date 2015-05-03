@@ -1,11 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RunnerBehaviour.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CameraBehaviour.js">
     <Files>
+      <File FileName="Assets\FollowBall.js" Line="10" Column="44" />
       <File FileName="Assets\OponentDefensorBehaviour.js" Line="6" Column="21" />
-      <File FileName="Assets\FootballBehaviour.js" Line="25" Column="2" />
-      <File FileName="Assets\QuarterBackBehaviour.js" Line="11" Column="2" />
-      <File FileName="Assets\RunnerBehaviour.js" Line="24" Column="47" />
+      <File FileName="Assets\FootballBehaviour.js" Line="29" Column="23" />
+      <File FileName="Assets\QuarterBackBehaviour.js" Line="15" Column="72" />
+      <File FileName="Assets\RunnerBehaviour.js" Line="16" Column="24" />
+      <File FileName="Assets\CameraBehaviour.js" Line="1" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

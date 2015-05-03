@@ -1,13 +1,13 @@
 ﻿#pragma strict
 
-var Parent : Rigidbody;
-var Child : GameObject;
+var QB: Rigidbody;
+var Ball : Rigidbody;
+var MoveCamera : GameObject;
+var CameraMovement : GameObject;
 
-function Start () {	
-	transform.parent = Parent.transform;
-	transform.position.z = Parent.transform.position.z;
-}
 
-function Update () {
-
+function Update(){
+	CameraMovement.transform.position.z = Ball.transform.position.z;
+	MoveCamera.transform.position.z = Ball.transform.position.z;
+	CameraMovement.transform.position.x = -10;
 }
