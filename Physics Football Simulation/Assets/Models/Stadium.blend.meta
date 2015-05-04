@@ -37,6 +37,13 @@ ModelImporter:
     100058: Tree_2_010
     100060: Tree_2_011
     100062: Tree_2_012
+    100064: Bleechers_001
+    100066: Bleechers_002
+    100068: Bleechers_003
+    100070: Bleechers_004
+    100072: Scoreboard_001
+    100074: Scoreboard_002
+    100076: Scoreboard_003
     400000: Cylinder
     400002: Field
     400004: FieldPosts
@@ -69,6 +76,13 @@ ModelImporter:
     400058: Tree_2_010
     400060: Tree_2_011
     400062: Tree_2_012
+    400064: Bleechers_001
+    400066: Bleechers_002
+    400068: Bleechers_003
+    400070: Bleechers_004
+    400072: Scoreboard_001
+    400074: Scoreboard_002
+    400076: Scoreboard_003
     2300000: Cylinder
     2300002: Field
     2300004: FieldPosts
@@ -100,6 +114,13 @@ ModelImporter:
     2300056: Tree_2_010
     2300058: Tree_2_011
     2300060: Tree_2_012
+    2300062: Bleechers_001
+    2300064: Bleechers_002
+    2300066: Bleechers_003
+    2300068: Bleechers_004
+    2300070: Scoreboard_001
+    2300072: Scoreboard_002
+    2300074: Scoreboard_003
     3300000: Cylinder
     3300002: Field
     3300004: FieldPosts
@@ -131,6 +152,13 @@ ModelImporter:
     3300056: Tree_2_010
     3300058: Tree_2_011
     3300060: Tree_2_012
+    3300062: Bleechers_001
+    3300064: Bleechers_002
+    3300066: Bleechers_003
+    3300068: Bleechers_004
+    3300070: Scoreboard_001
+    3300072: Scoreboard_002
+    3300074: Scoreboard_003
     4300000: Cylinder
     4300002: Plane
     4300004: Scoreboard
@@ -162,6 +190,13 @@ ModelImporter:
     4300056: Tree_2
     4300058: Tree_1
     4300060: MediaCenter
+    4300062: Bleechers_004
+    4300064: Bleechers_003
+    4300066: Bleechers_002
+    4300068: Bleechers_001
+    4300070: Scoreboard_003
+    4300072: Scoreboard_002
+    4300074: Scoreboard_001
     7400000: Default Take
     9500000: //RootNode
   materials:
