@@ -26,6 +26,5 @@ function Throw()
 	transform.rotation.z = 248;
 	transform.rotation.x = 45;
 	Ball.AddForce(transform.forward * 20000);
-	CameraMovement.transform.position.z = Runner.transform.position.z;
 	Ball.useGravity = true;
 }

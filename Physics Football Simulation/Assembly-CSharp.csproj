@@ -46,7 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\RunnerBehaviour.cs" />
+     <Compile Include="Assets\Meh.cs" />
+     <Compile Include="Assets\Meh2.cs" />
+     <Compile Include="Assets\Meh3.cs" />
+     <Compile Include="Assets\SendValues.cs" />
+     <Compile Include="Assets\SwitchScenes.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

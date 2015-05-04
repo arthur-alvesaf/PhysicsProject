@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{BB669AAD-B2D1-1D10-1884-8AEA2FE66BC0}") = "Physics Football Simulation", "Assembly-CSharp.csproj", "{13B861E8-099C-2EEE-B0E0-1B4820E3B46F}"
+EndProject
 Project("{BB669AAD-B2D1-1D10-1884-8AEA2FE66BC0}") = "Physics Football Simulation", "Assembly-UnityScript.unityproj", "{8EEB9BF7-B74E-952E-AA5B-8EC05A283701}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B861E8-099C-2EEE-B0E0-1B4820E3B46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B861E8-099C-2EEE-B0E0-1B4820E3B46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B861E8-099C-2EEE-B0E0-1B4820E3B46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B861E8-099C-2EEE-B0E0-1B4820E3B46F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8EEB9BF7-B74E-952E-AA5B-8EC05A283701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8EEB9BF7-B74E-952E-AA5B-8EC05A283701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EEB9BF7-B74E-952E-AA5B-8EC05A283701}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -17,7 +23,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																												GlobalSection(MonoDevelopProperties) = preSolution
+																																																																														GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
