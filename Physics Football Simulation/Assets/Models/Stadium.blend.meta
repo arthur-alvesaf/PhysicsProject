@@ -44,6 +44,26 @@ ModelImporter:
     100072: Scoreboard_001
     100074: Scoreboard_002
     100076: Scoreboard_003
+    100078: Cube
+    100080: Cube_001
+    100082: Cube_002
+    100084: Cube_003
+    100086: Cube_004
+    100088: Cube_005
+    100090: Cube_006
+    100092: Cube_007
+    100094: Outside_Fence
+    100096: Plant
+    100098: Plant_001
+    100100: Plant_002
+    100102: Plant_003
+    100104: Tree3
+    100106: Tree3_001
+    100108: Tree3_002
+    100110: Tree4
+    100112: Tree4_001
+    100114: Tree_1_003
+    100116: Tree_2_013
     400000: Cylinder
     400002: Field
     400004: FieldPosts
@@ -83,6 +103,26 @@ ModelImporter:
     400072: Scoreboard_001
     400074: Scoreboard_002
     400076: Scoreboard_003
+    400078: Cube
+    400080: Cube_001
+    400082: Cube_002
+    400084: Cube_003
+    400086: Cube_004
+    400088: Cube_005
+    400090: Cube_006
+    400092: Cube_007
+    400094: Outside_Fence
+    400096: Plant
+    400098: Plant_001
+    400100: Plant_002
+    400102: Plant_003
+    400104: Tree3
+    400106: Tree3_001
+    400108: Tree3_002
+    400110: Tree4
+    400112: Tree4_001
+    400114: Tree_1_003
+    400116: Tree_2_013
     2300000: Cylinder
     2300002: Field
     2300004: FieldPosts
@@ -121,6 +161,26 @@ ModelImporter:
     2300070: Scoreboard_001
     2300072: Scoreboard_002
     2300074: Scoreboard_003
+    2300076: Cube
+    2300078: Cube_001
+    2300080: Cube_002
+    2300082: Cube_003
+    2300084: Cube_004
+    2300086: Cube_005
+    2300088: Cube_006
+    2300090: Cube_007
+    2300092: Outside_Fence
+    2300094: Plant
+    2300096: Plant_001
+    2300098: Plant_002
+    2300100: Plant_003
+    2300102: Tree3
+    2300104: Tree3_001
+    2300106: Tree3_002
+    2300108: Tree4
+    2300110: Tree4_001
+    2300112: Tree_1_003
+    2300114: Tree_2_013
     3300000: Cylinder
     3300002: Field
     3300004: FieldPosts
@@ -159,6 +219,26 @@ ModelImporter:
     3300070: Scoreboard_001
     3300072: Scoreboard_002
     3300074: Scoreboard_003
+    3300076: Cube
+    3300078: Cube_001
+    3300080: Cube_002
+    3300082: Cube_003
+    3300084: Cube_004
+    3300086: Cube_005
+    3300088: Cube_006
+    3300090: Cube_007
+    3300092: Outside_Fence
+    3300094: Plant
+    3300096: Plant_001
+    3300098: Plant_002
+    3300100: Plant_003
+    3300102: Tree3
+    3300104: Tree3_001
+    3300106: Tree3_002
+    3300108: Tree4
+    3300110: Tree4_001
+    3300112: Tree_1_003
+    3300114: Tree_2_013
     4300000: Cylinder
     4300002: Plane
     4300004: Scoreboard
@@ -197,6 +277,26 @@ ModelImporter:
     4300070: Scoreboard_003
     4300072: Scoreboard_002
     4300074: Scoreboard_001
+    4300076: Cube_007
+    4300078: Cube_006
+    4300080: Cube_005
+    4300082: Cube_004
+    4300084: Cube_003
+    4300086: Cube_002
+    4300088: Cube_001
+    4300090: Cube
+    4300092: Outside_Fence
+    4300094: Tree_2_013
+    4300096: Tree3_002
+    4300098: Tree3_001
+    4300100: Tree_1_003
+    4300102: Tree4_001
+    4300104: Tree4
+    4300106: Tree3
+    4300108: Plant_003
+    4300110: Plant_002
+    4300112: Plant_001
+    4300114: Plant
     7400000: Default Take
     9500000: //RootNode
   materials:
