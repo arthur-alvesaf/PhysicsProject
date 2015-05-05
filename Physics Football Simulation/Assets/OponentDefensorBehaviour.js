@@ -2,6 +2,7 @@
 
 var Parent : Rigidbody;
 var Defensor : Rigidbody;
+var tackling = false;
 
 function Start(){
 }
@@ -15,19 +16,25 @@ function Update () {
 	else
 	{
 		mass = 100;
-		print("Defender mass assumed 100.");
+		//print("Defender mass assumed 100.");
 	}
 	
 	transform.position.x = Parent.transform.position.x;
-	//transform.LookAt(Parent.transform);
+
+	if (tackling == false)
+	{
+		Defensor.GetComponent.<Animation>().Play("Running");
+		Defensor.GetComponent.<Animation>()["Running"].speed = 1;
+	}
 }
 
 function OnTriggerEnter(tackle : Collider)
 {
 	if ((tackle.GetComponent.<Rigidbody>().tag == "Runner & Catcher"))
 	{
-	    print("nombre:"+tackle.gameObject.name);
-	    print(Defensor.GetComponent.<Animation>().name);
+	    //print("nombre:"+tackle.gameObject.name);
+	    //print(Defensor.GetComponent.<Animation>().name);
 		Defensor.GetComponent.<Animation>().Play("Defense_tackle");
+		tackling = true;
 	}	
 }

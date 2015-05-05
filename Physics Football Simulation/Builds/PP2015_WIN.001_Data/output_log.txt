@@ -1,0 +1,44 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 460  (ID=0xe22)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+desktop: 1600x900 59Hz; virtual: 2960x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 18c8 -> priority: 1 
+  Thread -> id: 850 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.864695 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1017.
+Total: 0.486614 ms (FindLiveObjects: 0.065142 ms CreateObjectMapping: 0.037524 ms MarkObjects: 0.298993 ms  DeleteObjects: 0.084354 ms)
+
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_WIN.001_Data\Managed\Boo.Lang.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at RunnerBehaviour+$OnTriggerEnter$35+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.539994 ms
+
+Unloading 135 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 0.967824 ms (FindLiveObjects: 0.029418 ms CreateObjectMapping: 0.033621 ms MarkObjects: 0.278579 ms  DeleteObjects: 0.625303 ms)
+

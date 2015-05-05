@@ -1,0 +1,20 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 460  (ID=0xe22)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_64.001_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_64.001_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_64.001_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_64.001_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_64.001_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_64.001_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_64.001_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Projects\GitHub\PhysicsProject\Physics Football Simulation\Builds\PP2015_64.001_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+desktop: 1600x900 59Hz; virtual: 2960x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
